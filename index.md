@@ -1,37 +1,23 @@
-## Школа Глубокого Обучения
+## Что?
 
-You can use the [editor on GitHub](https://github.com/IKholopov/ikholopov.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+“Школа глубокого обучения” -- кружок, рассчитаный на старшеклассников, интересующихся программированием и математикой. Занятия будут вести студенты школы прикладной математики и информатики Физтеха. Цель курса - познакомить учеников с основными принципами глубокого обучения в интерактивном формате и на примере практических задач.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Когда?
 
-### Markdown
+Школа стартует **28 октября**. Планируемый объем курса -- 18 занятий.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Где?
 
-```markdown
-Syntax highlighted code block
+Занятия будут приходить по адресу **Климентовский переулок, д. 1, стр. 1** (Московский корпус МФТИ) **по субботам в 17:00** 
 
-# Header 1
-## Header 2
-### Header 3
+## На кого расчитаны занятия?
 
-- Bulleted
-- List
+Школа расчитана на учеников старших классов, которые умеют программировать, хорошо знают математику и любят изучать что-то новое. Огромным плюсом будет знание языка Python.
 
-1. Numbered
-2. List
+## Как поступить?
 
-**Bold** and _Italic_ and `Code` text
+В этом году проект запускается в пилотном формате. Нам очень бы хотелось принять всех желающих, но в этом году мы сможем проводить семинары и принимать домашние задания у ограниченного количества человек. 
 
-[Link](url) and ![Image](src)
-```
+Более подробная информация о поступлении появится позже.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IKholopov/ikholopov.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Все материалы школы, включая домашние задания будут доступны в открытом доступе.
